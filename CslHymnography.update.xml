@@ -4,8 +4,8 @@
  xmlns:l="http://libreoffice.org/extensions/description/2011"
  xmlns:xlink="http://www.w3.org/1999/xlink">
 	<identifier value="org.elisey.cslhymnography" />
-	<version value="0.0.1" />
+	<version value="0.0.4" />
 	<update-download>
-		<src xlink:href="https://github.com/EliseyP/HymnographyCSL/raw/main/CslHymnography.oxt" />
+		<src xlink:href="http://github.com/EliseyP/HymnographyCSL/raw/main/CslHymnography.oxt" />
 	</update-download>
 </description>
