@@ -50,6 +50,6 @@ Working on the ODT documents **with styles** from templates from [csl_odt2tex](h
 Указать путь можно в **Параметрах** расширения. Меню `Сервис|Управление расширениями|CslHymnography.oxt`.  
 **Note:** необходим весь каталог из этого проекта.
 
-<img src="Images/OxtOptions.jpeg" width="1500" height="460">
+<img src="Images/OxtOptions.jpeg" width="1500" height="430">
 
 `Pdf`-файл (а также промежуточный `.tex` файл) сохраняется в том же каталоге, что и открытый документ. Имя файла, если не изменено в диалоге, совпадает с именем открытого `odt`-документа (без расширения).  
