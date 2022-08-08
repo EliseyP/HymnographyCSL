@@ -46,9 +46,10 @@ Working on the ODT documents **with styles** from templates from [csl_odt2tex](h
 
 ### csl2pdf
 
-При первом запуске будет предложен диалог выбора каталога, в котором находится скрипт `csl2tex.py`.  
-В дальнейшем это значение хранится в `user-config` каталоге в файле `csl2pdf.rc`.  
-Для Linux: `~/.config/libreoffice/4/user/csl2pdf.rc`.  
-**TODO:** store at LO-registry.
+Для работы расширения необходим скрипт `csl2tex.py` из проекта [csl_odt2tex](https://github.com/EliseyP/csl_odt2tex). 
+Указать путь можно в **Параметрах** расширения. Меню `Сервис|Управление расширениями|CslHymnography.oxt`.  
+**Note:** необходим весь каталог из этого проекта.
+
+<img src="Images/OxtOptions.jpeg" width="1500" height="460">
 
 `Pdf`-файл (а также промежуточный `.tex` файл) сохраняется в том же каталоге, что и открытый документ. Имя файла, если не изменено в диалоге, совпадает с именем открытого `odt`-документа (без расширения).  
