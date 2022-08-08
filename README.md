@@ -46,7 +46,7 @@ Working on the ODT documents **with styles** from templates from [csl_odt2tex](h
 
 ### csl2pdf
 
-Для работы расширения необходим скрипт `csl2tex.py` из проекта [csl_odt2tex](https://github.com/EliseyP/csl_odt2tex). 
+Для работы расширения необходим скрипт `csl2tex.py` из проекта [csl_odt2tex](https://github.com/EliseyP/csl_odt2tex).  
 Указать путь можно в **Параметрах** расширения. Меню `Сервис|Управление расширениями|CslHymnography.oxt`.  
 **Note:** необходим весь каталог из этого проекта.
 
